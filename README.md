@@ -76,12 +76,6 @@ The project emphasizes clarity, transparency, and explainability over optimizati
 
 ---
 
-## Project Status
-
-Government Hackathon Submission — Results Pending
-
----
-
 ## Final Note
 
 This project intentionally avoids predictive modeling and black-box approaches in favor of transparent, governance-aligned analytics designed to support cautious and accountable decision-making.
